@@ -2,6 +2,6 @@
 int main()
 {
    // printf() displays the string inside quotation
-   printf("Hello, World!");
+   printf("Hey you!");
    return 0;
 }
